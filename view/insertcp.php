@@ -42,13 +42,13 @@
 			    	<div class="form-group">
 			    		<label for="id_curso" class="control-label col-md-2">Nombre</label>
 			    		<div class="col-md-6">
-			    			<input type="text" name="id_curso" id="id_curso" class="form-control">
+			    			<input type="text" name="nombre_curso" id="id_curso" class="form-control">
 			    		</div>
 			    	</div>
 			    	<div class="form-group">
 			    		<label for="id_curso" class="control-label col-md-2">Fecha Comienzo</label>
 			    		<div class="col-md-6">
-			    			<input type="text" name="id_curso" id="id_curso" class="form-control">
+			    			<input type="text" name="fecha_com" id="id_curso" class="form-control">
 			    		</div>
 			    	</div>
 			    	<div class="form-group">
